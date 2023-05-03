@@ -1,0 +1,52 @@
+SKU	Item_name	Quantity	Reorder_point	unit_Cost	Price	Vendor_id	Expiration_date	location_id	
+8574519	Heavy cream	53	16	$1.63	$3.29 	24	6-Dec	3	
+1474222	Ice	20	11	$4.48	$10.49 	1	12-Jan	5	
+9941506	Honey	97	13	$5.25	$12.99 	2	25-Feb	2	
+7940148	Cinnamon	63	24	$0.95	$2.49 	3	9-Mar	3	
+6622926	Nutmeg	31	21	$3.24	$8.29 	4	23-Apr	1	
+7160767	Ginger	79	17	$4.79	$11.99 	5	20-May	4	
+2080086	Cardamom	40	12	$1.75	$5.25 	6	8-Jun	5	
+1293823	Cloves	58	20	$3.99	$9.75 	7	7-Jul	2	
+2243066	Allspice	54	14	$2.57	$7.89 	8	31-Aug	4	
+9457287	Pumpkin spice	18	15	$2.99	$4.49 	9	15-Sep	3	
+7659816	Chai mix	91	23	$1.68	$6.99 	10	28-Oct	1	
+4727269	Matcha powder	22	19	$2.79	$17.25 	11	18-Nov	5	
+4598936	Whiskey	67	11	$7.50	$8.99 	12	17-Dec	2	
+4676212	Rum	10	17	$3.68	$12.49 	13	22-Jan	1	
+6845069	Brandy	39	22	$4.99	$4.59 	14	2-Feb	4	
+4205670	Kahlua	65	18	$1.92	$3.75 	15	29-Mar	3	
+3570688	Baileys Irish Cream	96	12	$1.60	$14.49 	16	16-Apr	5	
+6162697	Amaretto	70	16	$5.49	$9.99 	17	14-May	2	
+2310791	Frangelico	35	24	$3.99	$5.89 	18	21-Jun	3	
+8995082	Cointreau	83	13	$2.35	$7.75 	19	23-Jul	1	
+3122679	Triple sec	47	14	$2.99	$11.85 	20	27-Aug	4	
+2465029	Grand Marnier	75	15	$4.85	$6.39 	21	12-Sep	5	
+6920850	Sambuca	15	20	$2.09	$2.95 	22	5-Oct	2	
+1440103	Campari	90	11	$0.99	$13.75 	23	19-Nov	1	
+6727268	Red Bull	43	19	$5.75	$10.15 	24	25-Dec	4	
+7932254	Orange juice	71	22	$4.15	$15 	27	10-Jan	3	
+5437629	Coffee beans	23	13	$2.04	$4.99 	1	15-Jan	2	
+9210317	Espresso shots	57	19	$5.24	$12.75 	2	20-Feb	3	
+2831956	Milk (whole)	9	11	$3.10	$7.49 	3	5-Mar	1	
+7754182	Milk (skim)	36	17	$3.68	$8.99 	4	2-Apr	4	
+6194832	Almond milk	11	12	$4.57	$9.89 	5	30-May	5	
+8981867	Soy milk	82	14	$1.60	$3.49 	6	10-Jun	2	
+4370020	Whipped cream	68	22	$4.99	$10.99 	7	18-Jul	1	
+6928001	Caramel syrup	14	15	$2.64	$6.45 	8	1-Aug	4	
+2921584	Chocolate syrup	42	24	$2.44	$5.99 	9	24-Sep	3	
+5903377	Vanilla syrup	62	16	$1.22	$2.99 	10	12-Oct	5	
+2329018	Hazelnut syrup	38	21	$5.64	$11.25 	11	5-Nov	2	
+9182754	White chocolate syrup	6	10	$2.97	$7.25 	12	21-Dec	4	
+6050223	Dark chocolate syrup	72	18	$1.96	$4.95 	13	10-Jan	3	
+2978640	Butterscotch syrup	33	20	$3.89	$9.79 	14	8-Feb	1	
+3077972	Peppermint syrup	78	13	$5.68	$14.99 	15	11-Mar	5	
+7660578	Raspberry syrup	28	11	$2.80	$6.85 	16	30-Apr	2	
+5303277	Blackberry syrup	49	24	$1.58	$3.99 	17	22-May	3	
+6800451	Blueberry syrup	92	12	$2.25	$5.49 	18	17-Jun	1	
+9811109	Strawberry syrup	45	22	$3.68	$7.99 	19	28-Jul	4	
+6827531	Coconut milk	16	14	$5.15	$13.59 	20	14-Aug	5	
+2222017	Condensed milk	51	15	$3.46	$8.45 	21	9-Sep	2	
+9537604	Evaporated milk	26	18	$2.80	$6.79 	22	7-Oct	1	
+1520984	Half-and-half	87	19	$7.99	$15.99 	23	13-Nov	4	
+5769865	Oat milk	13	14	$4.47 	$9.47 	7	7-Nov	3	
+									
