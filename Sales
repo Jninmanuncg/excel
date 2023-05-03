@@ -1,0 +1,51 @@
+Sale_ID	Date	Item	Quantity	Total amount	Payment Method	Total Cost	Profit	staff_id	location_id	
+SAM95H	3-Apr-23	Tuna salad wrap	4	$70.61 	Debit Card	2.2	$68.41 	26898	1	
+SAE83I	14-Aug-23	Vanilla latte	5	$35.26 	Cash	9.99	$25.27 	28009	1	
+SAP27J	28-Jan-23	Classic macaroni and cheeseSale_ID	Date	Item	Quantity	Total amount	Payment Method	Total Cost	Profit	staff_id	location_id	
+SAM95H	3-Apr-23	Tuna salad wrap	4	$70.61 	Debit Card	2.2	$68.41 	26898	1	
+SAE83I	14-Aug-23	Vanilla latte	5	$35.26 	Cash	9.99	$25.27 	28009	1	
+SAP27J	28-Jan-23	Classic macaroni and cheese	6	$60.02 	Cash	7.5	$52.52 	29120	1	
+SAZ73K	19-May-23	Club sandwich	3	$45.94 	Cash	4.85	$41.09 	30231	1	
+SAX47L	4-Oct-22	Mushroom risotto	1	$89.73 	Cash	2.99	$86.74 	31342	1	
+SAU83M	10-Mar-23	Berry cobbler	7	$50.11 	Credit Card	8.2	$41.91 	32453	1	
+SAN27N	21-Jul-23	Chicken noodle soup	9	$18.67 	Debit Card	5.5	$13.17 	33564	1	
+SAC85O	6-Dec-22	Banana bread	5	$27.99 	Apple Pay Cash	1.75	$26.24 	34675	1	
+SAH73P	11-Feb-23	Iced mocha	10	$72.75 	Google Wallet	4.2	$68.55 	35786	2	
+SAV39Q	26-Jun-23	Caprese salad	6	$40.04 	Credit Card	10.99	$29.05 	36897	1	
+SAG57R	17-Nov-22	French onion soup	2	$85.41 	Debit Card	3.5	$81.91 	38008	1	
+SAE95S	10-Jan-23	Reuben sandwich	3	$98.05 	Apple Pay Cash	6.2	$91.85 	39119	1	
+SAI73T	3-May-23	Blueberry pancakes	8	$14.62 	 Cash	2.75	$11.87 	40230	4	
+SAK28U	24-Oct-22	Beef chili	7	$23.78 	Credit Card	8.85	$14.93 	41341	1	
+SAO39V	8-Apr-23	Apple cider donut	4	$67.38 	Debit Card	5.99	$61.39 	42452	1	
+SAR57W	19-Aug-23	Roasted tomato soup	9	$46.59 	Cash	9.2	$37.39 	43563	1	
+SAD28X	30-Jan-23	Quinoa salad	1	$76.09 	Cash	1.5	$74.59 	44674	1	
+SAW39Y	21-May-23	Corned beef hash	5	$94.22 	Cash	5.2	$89.02 	45785	4	
+SAB95Z	6-Oct-22	Strawberry shortcake	6	$10.99 	Cash	8.75	$2.24 	46896	1	
+SAE28A	6-Mar-23	Vegetable lasagna	10	$20.43 	Credit Card	11.5	$8.93 	48007	1	
+SAV73B	17-Jul-23	Iced chai latte	2	$71.85 	Debit Card	3.99	$67.86 	49118	3	
+SAU46C	1-Dec-22	Cobb salad	4	$36.94 	Apple Pay Cash	6.5	$30.44 	50229	1	
+SAI83D	6-Feb-23	Croque-monsieur	8	$63.75 	Google Wallet	2.25	$61.50 	51340	3	
+SAX39E	27-Jun-23	Chocolate milkshake	3	$48.13 	Credit Card	9.5	$38.63 	52451	1	
+SAJ73F	14-Nov-22	Italian wedding soup	7	$88.55 	Debit Card	7.2	$81.35 	53562	1	
+SAZ28G	7-Jan-23	Fried chicken and waffles	6	$51.26 	Apple Pay Cash	4.85	$46.41 	54673	1	
+SK9024	30-May-23	Fried chicken and waffles	7	$17.56 	 Cash	2.99	$14.57 	55784	1	
+SAH42K	12-Mar-23	Cinnamon Spice Latte	7	$57.23 	Credit Card	13.99	$43.24 	13456	1	
+SAG39L	23-Jul-23	Caramel latte	2	$12.56 	Debit Card	4.25	$8.31 	24566	2	
+SAE47M	4-Dec-22	Avocado toast	10	$30.81 	Apple Pay Cash	12.5	$18.31 	35767	3	
+SAI95N	9-Feb-23	Blueberry muffin	1	$68.99 	Google Wallet	7.75	$61.24 	46478	4	
+SAK76O	30-Jun-23	Croissant sandwich	4	$41.77 	Credit Card	9.85	$31.92 	57689	5	
+SAN83P	15-Nov-22	Strawberry smoothie	8	$83.12 	Debit Card	3.99	$79.13 	69700	1	
+SAU94Q	8-Jan-23	Breakfast burrito	9	$92.45 	Apple Pay Cash	5.75	$86.70 	80151	2	
+SAV28R	1-May-23	Chocolate chip cookie	3	$16.28 	 Cash	11.2	$5.08 	91622	3	
+SAB95S	22-Oct-22	Spinach quiche	6	$25.63 	Credit Card	2.5	$23.13 	10233	4	
+SAD39T	6-Apr-23	Bacon, egg, and cheese bagel	2	$74.32 	Debit Card		$74.32 	11344	5	
+SAJ29U	17-Aug-23	Greek yogurt parfait	7	$38.97 	Cash	10.25	$28.72 	12455	1	
+SAM84V	25-Jan-23	Iced green tea	1	$62.18 	Cash	4.99	$57.19 	13566	2	
+SAX46W	16-May-23	Chicken Caesar salad	4	$49.50 	Cash	6.5	$43.00 	14677	3	
+SAZ73X	1-Oct-22	Bagel and lox	5	$87.77 	Cash	3.75	$84.02 	15788	5	
+SAC85Y	8-Mar-23	Vegetable frittata	9	$53.89 	Credit Card	7.85	$46.04 	16899	4	
+SAF28Z	19-Jul-23	Grilled cheese sandwich	8	$15.75 	Debit Card	5.99	$9.76 	18010	1	
+SAQ73A	2-Dec-22	Matcha latte	10	$28.36 	Apple Pay Cash	9.2	$19.16 	19121	2	
+SAO85B	7-Feb-23	Chocolate croissant	2	$66.09 	Google Wallet	1.99	$64.10 	20232	1	
+SAR39C	28-Jun-23	Roasted turkey sandwich	3	$43.82 	Credit Card	5.5	$38.32 	21343	1	
+	
